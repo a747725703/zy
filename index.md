@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
 <meta charset="UTF-8">
-    <title>去去去<title>
+    <title>去去去</title>
       </head>
       <body>
         <img scr = "1.jpg"/>
